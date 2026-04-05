@@ -1,10 +1,9 @@
 # RynT
 
-Frontend developer / CS student
-
----
-
+Frontend developer / CS student  
 Focused on **global frontend ecosystem** and **UI/UX Design**.
+
+![My Skills](https://skillicons.dev/icons?i=apple,vscode,pnpm,vite,ts,react,vue,astro,tailwind,figma,obsidian,regex)
 
 ## Coding Activity
 
@@ -21,4 +20,4 @@ Focused on **global frontend ecosystem** and **UI/UX Design**.
 
 ---
 
-Time passes,code remains.Each commit is a stroke on the canvas of my youth.Stay sober while striving for better answers.
+Time passes, code remains. Each commit is a stroke on the canvas of my youth. Stay sober while striving for better answers.
