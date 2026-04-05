@@ -1,24 +1,24 @@
-# I'm RynT
+# RynT
 
-A CS Student in Nanjing, born in 2005.
-Focused on **Modern Frontend**
+Frontend developer / CS student
 
-## major Stack
+---
 
-- React
-- Tailwind CSS
-- shadcn/ui
+Focused on **global frontend ecosystem** and **UI/UX Design**.
 
-## 📊 Coding Activity
+## Coding Activity
 
 <table>
   <tr>
     <td>
-      <img style="width: 100%" src="https://wakatime.com/share/@ed645075-e2cc-4921-9cd6-746aa3bf71d8/c88f68fa-4884-496e-8ecc-848bbf93c356.svg" alt="waketime Coding Activity" />
+      <img style="width: 1024px" src="https://wakatime.com/share/@ed645075-e2cc-4921-9cd6-746aa3bf71d8/ec6911f2-066c-4414-b9f3-b4d0c52c802a.svg" alt="waketime Languages" />
     </td>
     <td>
-      <img style="width: 100%" src="https://wakatime.com/share/@ed645075-e2cc-4921-9cd6-746aa3bf71d8/ec6911f2-066c-4414-b9f3-b4d0c52c802a.svg" alt="waketime Languages" />
+      <img style="width: 1024px" src="https://wakatime.com/share/@ed645075-e2cc-4921-9cd6-746aa3bf71d8/c88f68fa-4884-496e-8ecc-848bbf93c356.svg" alt="waketime Coding Activity" />
     </td>
   </tr>
 </table>
 
+---
+
+Time passes,code remains.Each commit is a stroke on the canvas of my youth.Stay sober while striving for better answers.
