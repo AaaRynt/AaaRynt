@@ -18,8 +18,8 @@ Focused on **global frontend ecosystem** and **UI/UX Design**.
   </tr>
 </table>
 
-![contrib](./profile-3d-contrib/profile-night-rainbow.svg)
+![contrib](./profile-3d-contrib/profile-night-green.svg)
 
 ---
 
-Time passes, code remains. Each commit is a stroke on the canvas of my youth. Stay sober while striving for better answers.
+>Time passes, code remains. Each commit is a stroke on the canvas of my youth. Stay sober while striving for better answers.
