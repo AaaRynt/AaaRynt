@@ -1,4 +1,4 @@
-# RynT
+<h1 style="text-align: center">RynT</h1>
 
 Frontend developer / CS student  
 Focused on **global frontend ecosystem** and **UI/UX Design**.
@@ -22,4 +22,4 @@ Focused on **global frontend ecosystem** and **UI/UX Design**.
 
 ---
 
->Time passes, code remains. Each commit is a stroke on the canvas of my youth. Stay sober while striving for better answers.
+> Time passes, code remains. Each commit is a stroke on the canvas of my youth. Stay sober while striving for better answers.
