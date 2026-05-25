@@ -3,7 +3,7 @@
 Frontend developer / CS student  
 Focused on **global frontend ecosystem** and **UI/UX Design**.
 
-![My Skills](https://skillicons.dev/icons?i=apple,vscode,pnpm,vite,ts,react,vue,astro,tailwind,figma,obsidian,regex)
+![My Skills](https://skillicons.dev/icons?i=apple,vscode,pnpm,vite,ts,react,nextjs,astro,tailwind,vercel,obsidian,regex)
 
 ## Coding Activity
 
