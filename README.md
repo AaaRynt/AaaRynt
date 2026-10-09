@@ -1,7 +1,8 @@
-<h1 style="text-align: center">RynT</h1>
+<h1 style="text-align: center">Astro</h1>
 
-Frontend developer / CS student  
-Focused on **global frontend ecosystem** and **UI/UX Design**.
+Frontend developer working with React, TypeScript, and the modern web ecosystem.
+
+Interested in UI engineering, developer tooling, and building better web experiences.
 
 ![My Skills](https://skillicons.dev/icons?i=apple,vscode,pnpm,vite,ts,react,nextjs,astro,tailwind,vercel,obsidian,regex)
 
@@ -17,9 +18,3 @@ Focused on **global frontend ecosystem** and **UI/UX Design**.
     </td>
   </tr>
 </table>
-
-![contrib](./profile-3d-contrib/profile-night-green.svg)
-
----
-
-> Time passes, code remains. Each commit is a stroke on the canvas of my youth. Stay sober while striving for better answers.
